@@ -1,4 +1,4 @@
-# CalcPythonUVA
+# CalcPythonUV
 Calculadora para saber realizar as médias e verificar se está aprovado
 
 # Autores
